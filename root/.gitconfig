@@ -1,0 +1,26 @@
+[user]
+	name = shyond
+	email = shyond007@gmail.com
+[color]
+	status = auto
+[color]
+	ui = auto
+	diff = auto
+	status = true
+	branch = auto
+	interactive = auto
+	log = true
+[alias]
+	co = checkout
+	ci = commit
+	ca = commit -a
+	st = status
+	pl = pull
+	ps = push
+	df = diff
+	dt = difftool
+	l = log --stat
+	cp = cherry-pick
+	ca = commit -a
+	br = branch
+
